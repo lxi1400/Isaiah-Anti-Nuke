@@ -1,2 +1,3 @@
-# Isaiah-Anti-Nuke
-Skidded bot with retarded owners lol
+# Isaiah Anti-Nuke
+Skidded bot that was made during dreaming days (2020)
+
